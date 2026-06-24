@@ -1,2 +1,2 @@
-# FCRNet
-This is the repository for FCRNet
+# SFGNet
+This is the repository for SFGNet
